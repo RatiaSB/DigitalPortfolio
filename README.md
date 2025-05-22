@@ -43,17 +43,17 @@ My top skills and interests included problem-solving, communication, and Java de
 ## 🧬 3. Personality Assessment
 
 ### 🔗 Evidence
-- ![MBTI Screenshot](personality-assessment/mbti-results.png)
+- ![Personality Assessment evidence](3.%20Personality%20Assessment/Personality%20Assessment%20Evidence.png)
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
-I took an MBTI personality test during the work readiness programme.  
+I took a personality test during the work readiness programme and answered some quizzes.  
 **Task**:  
 Understand my personality type and how it affects my work style.  
 **Action**:  
 Took the test online and read up on personality-based career tips.  
 **Result**:  
-As an INTJ, I learned I thrive in structured environments and roles requiring strategic thinking.
+As an INTJ (*Introverted, iNtuitive, Thinking, and Judging*), I learned, I thrive in structured environments and roles requiring strategic thinking.
 
 ---
 
