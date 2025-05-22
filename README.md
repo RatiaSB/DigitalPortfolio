@@ -13,13 +13,13 @@ Welcome to my digital portfolio for PRP370S – Project Presentation 3. This por
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
-I did a career Development (counselling) online course hosted by CPUT in February 2025.  
+In February 2025, I completed an online Career Development (counselling) course hosted by CPUT.  
 **Task**:  
-My primary objective was to gain deeper insight into various career options and to clarify my professional path.  
+My goal was to gain deeper insight into potential career options and to better understand my professional direction.  
 **Action**:  
-I actively engaged with the course material by completing a comprehensive questionnaire and participating in quizzes to solidify my understanding.  
+ I actively participated by completing a detailed questionnaire and engaging with quizzes to reinforce my learning.  
 **Result**:  
-This process was instrumental in identifying that my core strengths align significantly with system analysis and programming, which has directly guided my pursuit of internship roles in these specific areas.
+This process revealed a strong alignment between my strengths and the fields of system analysis and programming, directly influencing my decision to actively pursue internship opportunities in these areas.
 
 ---
 
