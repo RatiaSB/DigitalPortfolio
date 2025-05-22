@@ -26,17 +26,17 @@ I discovered my strengths align well with system analysis and programming, promp
 ## 🛠 2. Skills and Interests
 
 ### 🔗 Evidence
-- [Skills Audit Form](skills-interests/skills-audit.pdf)
+- <img src="2. Skills and Interests/Skills and Interest evidence.png " />
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
 I conducted a self-assessment of my technical and soft skills using a skills audit tool.  
 **Task**:  
-Identify my top skills and map them to IT career paths.  
+Identify my top skills and values and map them to IT career paths.  
 **Action**:  
 Completed a detailed form and compared results to job requirements.  
 **Result**:  
-My top skills included problem-solving, communication, and Java development, helping me narrow my internship search.
+My top skills and interests included problem-solving, communication, and Java development, helping me narrow my internship and job search.
 
 ---
 
