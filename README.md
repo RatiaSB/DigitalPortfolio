@@ -60,7 +60,7 @@ As an INTJ (*Introverted, iNtuitive, Thinking, and Judging*), I learned, I thriv
 ## 📄 4. Create a CV
 
 ### 🔗 Evidence
-- [Learned how to Create CV)](4.%20Create%20a%20CV/Create%20CV%20Evidence.png)
+- (4.%20Create%20a%20CV/Create%20CV%20Evidence.png)
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
