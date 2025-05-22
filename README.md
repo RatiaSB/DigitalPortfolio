@@ -78,7 +78,7 @@ Received compliments on clarity and relevance from a career mentor.
 
 ### 🔗 Evidence
 - <img src="5. CV Submission/CV cover page.png" width="100" height="100" align="right" />
-- <img src="5. CV Submission/CV main page.png" width="100" height="100" align="right" />
+ <img src="5. CV Submission/CV main page.png" width="100" height="100" align="right" />
 - <img src="5. CV Submission/Level 4 results.png" width="100" height="100" align="right" />
 - <img src="5. CV Submission/ID.png" width="100" height="100" align="right">
 ### 🧠 Reflection (STAR)
