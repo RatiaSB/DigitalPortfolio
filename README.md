@@ -77,17 +77,19 @@ Received compliments on clarity and relevance from a career mentor.
 ## 📤 5. CV Submission
 
 ### 🔗 Evidence
-- ![Submission Screenshot](cv-submission/proof-of-submission.png)
-
+- <img src="5. CV Submission/CV cover page.png" width="100" height="100" align="right" />
+- <img src="5. CV Submission/CV main page.png" width="100" height="100" align="right" />
+- <img src="5. CV Submission/Level 4 results.png" width="100" height="100" align="right" />
+- <img src="5. CV Submission/ID.png" width="100" height="100" align="right">
 ### 🧠 Reflection (STAR)
 **Situation**:  
-Submitted my CV to a local IT internship posting.  
+Submitted my CV to university WIL coordinator.  
 **Task**:  
 Track and reflect on submission experience.  
 **Action**:  
-Followed the job ad requirements, attached CV and cover letter.  
+Followed the job ad requirements, attached CV and National Certificate Vocational Level 4 (*equivalent to matric*).  
 **Result**:  
-Received acknowledgment and was shortlisted for a phone interview.
+Received acknowledgment and was shortlisted for internship.
 
 ---
 
