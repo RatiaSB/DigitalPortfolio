@@ -9,7 +9,7 @@ Welcome to my digital portfolio for PRP370S – Project Presentation 3. This por
 ## 📘 1. Career Counselling
 
 ### 🔗 Evidence
-- &lt;img src="1. Career Counselling/Career Counselling evidence.png" alt="Career Counselling Evidence" style="width:100%; max-width:600px; height:auto;">
+- <img src="1. Career Counselling/Career Counselling evidence.png" alt="Career Counselling Evidence" style="width:100%; max-width:600px; height:auto; />
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
