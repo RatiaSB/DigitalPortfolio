@@ -9,17 +9,17 @@ Welcome to my digital portfolio for PRP370S – Project Presentation 3. This por
 ## 📘 1. Career Counselling
 
 ### 🔗 Evidence
-- [Career Guidance Report](career-counselling/evidence.pdf)
+- <img src="1. Career Counselling/Career Counselling evidence.png" />
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
-I attended a career counselling workshop hosted by CPUT in March 2025.  
+I did a career Development (counselling) online course hosted by CPUT in February 2025.  
 **Task**:  
 To gain insight into my career options and better understand my professional path.  
 **Action**:  
-Participated in a one-on-one session, completed a questionnaire, and discussed the results with the advisor.  
+I have completed a questionnaire, and answered quizzes on what I have learned.  
 **Result**:  
-I discovered my strengths align well with system analysis, prompting me to explore internship roles in that area.
+I discovered my strengths align well with system analysis and programming, prompting me to explore internship roles in those areas.
 
 ---
 
