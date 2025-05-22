@@ -26,7 +26,7 @@ This process revealed a strong alignment between my strengths and the fields of 
 ## 🛠 2. Skills and Interests
 
 ### 🔗 Evidence
-- <img src="2. Skills and Interests/Skills and Interest evidence" />
+- <img src="2. Skills and Interests/Skills and Interest evidence.png" />
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
