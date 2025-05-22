@@ -26,7 +26,7 @@ This process revealed a strong alignment between my strengths and the fields of 
 ## 🛠 2. Skills and Interests
 
 ### 🔗 Evidence
-- &lt;img src="1. Career Counselling/Career Counselling evidence.png" alt="Career Counselling Evidence" style="width:100%; max-width:600px; height:auto;">
+- <img src="2. Skills and Interests/Skills and Interest evidence" />
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
