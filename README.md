@@ -60,13 +60,13 @@ As an INTJ (*Introverted, iNtuitive, Thinking, and Judging*), I learned, I thriv
 ## 📄 4. Create a CV
 
 ### 🔗 Evidence
-- [Download My CV (PDF)](cv/my-cv.pdf)
+- [Learned how to Create CV)](4.%20Create%20a%20CV/Create%20CV%20Evidence.png)
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
 I needed to create a professional CV for job applications.  
 **Task**:  
-Design a clear, concise, and well-structured resume.  
+Attended online course about to Design a clear, concise, and well-structured resume.  
 **Action**:  
 Used a template, tailored my content, and got feedback from peers.  
 **Result**:  
