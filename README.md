@@ -2,7 +2,7 @@
 This showcase my work
 # 🌟 PRP370S Digital Portfolio – Work Readiness
 
-Welcome to my digital portfolio for PRP370S – Project Presentation 3. This portfolio showcases my career readiness through evidence and structured reflections using the STAR technique.
+Welcome to my digital portfolio for PRP370S – Project Presentation 3. This portfolio is a curated showcase of my journey towards career readiness, featuring tangible evidence and structured reflections using the widely recognized STAR technique. My aim is to demonstrate my proactive approach to professional development, my key competencies, and my ability to learn and adapt.
 
 ---
 
@@ -15,18 +15,18 @@ Welcome to my digital portfolio for PRP370S – Project Presentation 3. This por
 **Situation**:  
 I did a career Development (counselling) online course hosted by CPUT in February 2025.  
 **Task**:  
-To gain insight into my career options and better understand my professional path.  
+My primary objective was to gain deeper insight into various career options and to clarify my professional path.  
 **Action**:  
-I have completed a questionnaire, and answered quizzes on what I have learned.  
+I actively engaged with the course material by completing a comprehensive questionnaire and participating in quizzes to solidify my understanding.  
 **Result**:  
-I discovered my strengths align well with system analysis and programming, prompting me to explore internship roles in those areas.
+This process was instrumental in identifying that my core strengths align significantly with system analysis and programming, which has directly guided my pursuit of internship roles in these specific areas.
 
 ---
 
 ## 🛠 2. Skills and Interests
 
 ### 🔗 Evidence
-- <img src="2. Skills and Interests/Skills and Interest evidence.png " />
+- &lt;img src="1. Career Counselling/Career Counselling evidence.png" alt="Career Counselling Evidence" style="width:100%; max-width:600px; height:auto;">
 
 ### 🧠 Reflection (STAR)
 **Situation**:  
