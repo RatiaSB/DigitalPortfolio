@@ -1,99 +1,154 @@
-# DigitalPortfolio
-This showcase my work
-# 🌟 PRP370S Digital Portfolio – Work Readiness
+<!-- ========================================================= -->
 
-Welcome to my portfolio! This collection showcases my proactive steps in career development and self-discovery. Each section highlights a key experience, supported by tangible evidence and a clear reflection using the STAR method. My aim is to demonstrate my commitment to growth, my relevant skills, and how I approach challenges and opportunities.
-
----
-
-## 📘 1. Career Counselling
-
-### 🔗 Evidence
-- <img src="1. Career Counselling/Career Counselling evidence.png"  />
-
-### 🧠 Reflection (STAR)
-**Situation**:  
-In February 2025, I completed an online Career Development (counselling) course hosted by CPUT.  
-**Task**:  
-My goal was to gain deeper insight into potential career options and to better understand my professional direction.  
-**Action**:  
- I actively participated by completing a detailed questionnaire and engaging with quizzes to reinforce my learning.  
-**Result**:  
-This process revealed a strong alignment between my strengths and the fields of system analysis and programming, directly influencing my decision to actively pursue internship opportunities in these areas.
+<div align="center">
+  <img src="Cover/CPUT_logo.png" alt="CPUT Logo" width="280"/>
+  <br><br>
+  <strong>“Building Professional Readiness through Reflection, Evidence, and Growth.”</strong>
+</div>
 
 ---
 
-## 🛠 2. Skills and Interests
+## 📚 INTRODUCTION  
 
-### 🔗 Evidence
-- <img src="2. Skills and Interests/Skills and Interest evidence.png" />
+Welcome to my **PRP372S Work Readiness Portfolio of Evidence**.  
+This digital portfolio documents my professional development journey through the **Work Readiness Program** at CPUT.  
 
-### 🧠 Reflection (STAR)
-**Situation**:  
-I performed a thorough self-assessment of my technical and soft skills using a comprehensive skills audit tool..  
-**Task**:  
-The objective was to clearly identify my most valuable skills and personal values, then strategically map them to relevant IT career paths.  
-**Action**:  
-I completed a detailed assessment form and then meticulously compared my results against common job requirements in the IT sector.  
-**Result**:  
-This exercise highlighted problem-solving, communication, and Java development as my top skills and interests, significantly refining my focus for internship and job applications.
+Using the *Collect, Select, Reflect, and Connect* framework, I have included artefacts and STAR reflections that demonstrate my growth in key employability areas.  
+
+The portfolio reflects both my **academic performance** and **personal development** as I prepare to transition into the professional IT environment.
 
 ---
 
-## 🧬 3. Personality Assessment
+## 🧩 E-PORTFOLIO FRAMEWORK  
 
-### 🔗 Evidence
-- ![Personality Assessment evidence](3.%20Personality%20Assessment/Personality%20Assessment%20Evidence.png)
-
-### 🧠 Reflection (STAR)
-**Situation**:  
-As part of a work readiness program, I undertook a personality assessment and completed several related quizzes. 
-**Task**:  
-My aim was to understand my unique personality type and how it influences my preferred work style and environment.  
-**Action**:  
-I completed the online assessment and then researched extensively on career tips tailored to my specific personality profile.  
-**Result**:  
-The assessment identified me as an INTJ (Introverted, iNtuitive, Thinking, and Judging), confirming that I thrive in structured environments and roles that demand strategic and analytical thinking.
+| Step | Description |
+|------|--------------|
+| **Collect** | Gathered evidence and artefacts from the Work Readiness modules (screenshots). |
+| **Select** | Chose the most relevant artefacts that best demonstrate learning outcomes and growth. |
+| **Reflect** | Used the STAR (Situation, Task, Action, Result) model to provide structured, meaningful reflection. |
+| **Connect** | Linked each learning experience to professional and personal goals for career advancement. |
 
 ---
 
-## 📄 4. Create a CV
+# 🌟 DIGITAL PORTFOLIO CONTENTS  
 
-### 🔗 Evidence
-- <img src="4. Create a CV/Create CV Evidence.png" />
+## 💬 1. BUSINESS COMMUNICATION  
 
-### 🧠 Reflection (STAR)
-**Situation**:  
-I recognized the critical need to develop a professional and impactful CV for my job applications.  
-**Task**:  
-I attended an online course specifically focused on designing a clear, concise, and well-structured resume that effectively highlights my qualifications.  
-**Action**:  
-I strategically utilized a professional template from Microsoft office, meticulously tailored my content to specific roles, and actively sought and incorporated feedback from peers to refine my document.  
-**Result**:  
-As a direct outcome, I received positive feedback from a career mentor, who complimented the clarity and relevance of my CV.
+### 🔗 Evidence (10%)  
+<img src="1. Business Communication/Business Communication.png" alt="Business Communication Evidence" width="400"/>
 
----
+### 🧠 Reflection – STAR Technique (10%)  
+**Situation:**  
+As part of the Work Readiness module, I completed the *Business Communication* course to improve my ability to communicate in a professional context.  
 
-## 📤 5. CV Submission
+**Task:**  
+I aimed to develop the skills to use the correct tone, format, and structure for formal business correspondence.  
 
-### 🔗 Evidence
-- <img src="5. CV Submission/CV cover page.png" width="100" height="100" align="right" />
-- <img src="5. CV Submission/CV main page.png" width="100" height="100" align="right" />
-- <img src="5. CV Submission/Level 4 results.png" width="100" height="100" align="right" />
-- <img src="5. CV Submission/ID.png" width="100" height="100" align="right">
-### 🧠 Reflection (STAR)
-**Situation**:  
-I proceeded to submit my CV to the university's Work Integrated Learning (WIL) coordinator for consideration. 
-**Task**:  
-My objective was to meticulously track and reflect upon the entire submission experience, ensuring all requirements were met.  
-**Action**:  
-I diligently followed all specified job advertisement requirements, ensuring my CV and my National Certificate Vocational Level 4 (equivalent to matric) were correctly attached.  
-**Result**:  
-My efforts were successful: I received an acknowledgment of receipt and was subsequently shortlisted for an internship opportunity.
+**Action:**  
+I practiced writing business emails, applying grammar rules, and understanding when to use formal vs informal communication. I also participated in class discussions on communication barriers and digital etiquette.  
+
+**Result:**  
+I can now confidently compose professional messages, deliver effective presentations, and maintain clear communication in both written and virtual environments.
 
 ---
 
-Thank you for taking the time to review my professional development portfolio. All documents and reflections presented here are my original work, reflecting my genuine dedication and capabilities.
+## 🎙 2. INTERVIEW SKILLS  
 
-I am eager to discuss how my skills and experiences can benefit your organization. Please feel free to reach out with any questions.
+### 🔗 Evidence (10%)  
+<img src="2. Interview Skills/Interview Skills.png" alt="Interview Skills Evidence" width="400"/>
+
+### 🧠 Reflection – STAR Technique (10%)  
+**Situation:**  
+Before internship applications, I needed to improve how I present myself professionally during interviews.  
+
+**Task:**  
+I wanted to learn how to structure responses and express confidence while aligning my skills with job requirements.  
+
+**Action:**  
+I completed the *Interview Skills* module, practiced answering common questions using the STAR method, and worked on non-verbal communication such as posture and eye contact.  
+
+**Result:**  
+I now enter interviews with confidence, communicate clearly, and respond to questions using examples that highlight my IT and teamwork experience.
+
+---
+
+## 🎥 3. MOCK INTERVIEW  
+
+### 🔗 Evidence (10%)  
+<img src="3. Mock Interview/Mock Interview.png" alt="Mock Interview Evidence" width="400"/>
+
+### 🧠 Reflection – STAR Technique (10%)  
+**Situation:**  
+I participated in a *Mock Interview* session as a simulation of a real job interview.  
+
+**Task:**  
+My task was to apply the interview skills learned and receive professional feedback.  
+
+**Action:**  
+I prepared a professional outfit, practiced my introduction, and answered each question using the STAR structure. I also reviewed my performance afterward based on peer and lecturer feedback.  
+
+**Result:**  
+The experience improved my professionalism and ability to stay calm under pressure. I now understand the importance of preparation, confidence, and concise answers during interviews.
+
+---
+
+## 🤝 4. PROFESSIONAL NETWORKING  
+
+### 🔗 Evidence (10%)  
+<img src="4. Professional Networking/Professional Networking.png" alt="Professional Networking Evidence" width="400"/>
+
+### 🧠 Reflection – STAR Technique (10%)  
+**Situation:**  
+The *Professional Networking* module helped me understand how to create and maintain career-related relationships.  
+
+**Task:**  
+My goal was to establish a professional online presence and engage meaningfully with others in my field.  
+
+**Action:**  
+I created a LinkedIn profile, connected with industry professionals, and attended virtual career readiness events hosted by CPUT. I also engaged with content relevant to my career goals.  
+
+**Result:**  
+I built a growing network of IT professionals, peers, and mentors. This has enhanced my confidence in professional interactions and expanded my career opportunities.
+
+---
+
+## 🧭 5. WORKPLACE ETIQUETTE  
+
+### 🔗 Evidence (10%)  
+<img src="5. Workplace Etiquette/Workplace Etiquette.png" alt="Workplace Etiquette Evidence" width="400"/>
+
+### 🧠 Reflection – STAR Technique (10%)  
+**Situation:**  
+As part of my professional preparation, I explored lessons on *Workplace Etiquette* to understand proper behavior in a formal work environment.  
+
+**Task:**  
+I aimed to learn how to demonstrate respect, teamwork, punctuality, and ethics in professional spaces.  
+
+**Action:**  
+I completed quizzes and readings on corporate behavior, dress code, meeting etiquette, and email professionalism. I practiced these skills during class projects and presentations.  
+
+**Result:**  
+I now understand how to conduct myself professionally in any setting, communicate respectfully with colleagues, and uphold integrity and discipline as an employee.
+
+---
+
+# 🧾 CONCLUSION – CONNECT PHASE  
+
+This portfolio captures the full journey of my **Work Readiness development**. Through structured reflection and evidence collection, I demonstrated measurable growth in communication, professionalism, networking, and interview skills.  
+
+These competencies have prepared me to:
+- Communicate effectively with confidence.  
+- Perform well in professional interviews.  
+- Engage meaningfully in workplace and networking environments.  
+- Demonstrate professional conduct and ethical standards.  
+
+---
+
+<div align="center">
+
+> “Professional growth is not a destination — it’s a journey of learning, reflection, and action.”  
+> — *Swatsi Ratia (2025), Personal Reflection, PRP372S Digital Portfolio*
+
+</div>
+
 
