@@ -97,6 +97,8 @@ The experience improved my professionalism and ability to stay calm under pressu
 ### 🔗 Evidence (10%)  
 <img src="4. Professional Networking/Professional Networking.png" alt="Professional Networking Evidence" width="400"/>
 
+<img src="4. Professional Networking/Linkedin Profile.png" alt="Linkedin Profile Evidence" width="400"/>
+
 ### 🧠 Reflection – STAR Technique (10%)  
 **Situation:**  
 The *Professional Networking* module helped me understand how to create and maintain career-related relationships.  
